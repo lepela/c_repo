@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\TJ\source\repos\Project2\Project2\main.c(62,9): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 'b'이(가) 있습니다.
+C:\Users\TJ\source\repos\Project2\Project2\main.c(39,21): warning C4101: 'sum' :참조되지 않은 지역 변수입니다.
+C:\Users\TJ\source\repos\Project2\Project2\main.c(39,11): warning C4101: 'eng' :참조되지 않은 지역 변수입니다.
+C:\Users\TJ\source\repos\Project2\Project2\main.c(39,16): warning C4101: 'mat' :참조되지 않은 지역 변수입니다.
+C:\Users\TJ\source\repos\Project2\Project2\main.c(39,6): warning C4101: 'kor' :참조되지 않은 지역 변수입니다.
+C:\Users\TJ\source\repos\Project2\Project2\main.c(40,8): warning C4101: 'avg' :참조되지 않은 지역 변수입니다.
+  Project2.vcxproj -> C:\Users\TJ\source\repos\Project2\x64\Debug\Project2.exe
